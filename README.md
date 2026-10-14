@@ -1,81 +1,106 @@
 <div align="center">
 
-# Hi, I'm Ayasha Hossain Jui 👋
+<a href="https://github.com/ayashaJui">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=6DB33F&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Distributed+Systems;Java+%7C+Spring+Boot+%7C+Microservices;FinTech+%7C+Event-Driven+Architecture" alt="Typing SVG" />
+</a>
 
-**Software Engineer** · Backend & distributed systems
-Java · Spring Boot · Microservices · FinTech
+**Java · Spring Boot · Microservices · FinTech**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayasha-hossain-jui/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayashajui1110@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayashajui1110@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayashaJui/)
+![Profile Views](https://komarev.com/ghpvc/?username=ayashaJui&label=Profile%20Views&color=6DB33F&style=for-the-badge)
 
 </div>
 
 ---
 
-### 👩‍💻 About me
+<table>
+<tr>
+<td valign="top" width="55%">
 
-Software Engineer with **3+ years** designing and delivering scalable, production-grade
-backend systems in the **FinTech** domain. I build event-driven microservices, real-time
-market-data pipelines, and concurrency-safe transaction workflows.
+### 👩‍💻 About Me
 
-- 🔭 Currently building **microservices for a live securities trading platform** (Java, Spring Boot, Kafka)
-- 🧠 Into **distributed systems, event-driven architecture, and clean architecture**
-- 💬 Ask me about **Spring Boot, microservices, REST API design, Kafka/RabbitMQ, SQL**
-- 📫 Reach me at **ayashajui1110@gmail.com**
+Software Engineer with **3+ years** building scalable, production-grade backend systems
+in the **FinTech** domain.
+
+- 🔭 Building **event-driven microservices** for a live securities trading platform
+- ⚙️ Focused on **distributed systems, real-time data & concurrency**
+- 🌱 Exploring **system design** and **cloud-native architecture**
+- 💬 Ask me about **Spring Boot, microservices, REST APIs, Kafka/RabbitMQ, SQL**
+- 📫 **ayashajui1110@gmail.com**
+
+</td>
+<td valign="top" width="45%">
+
+### 🚀 What I Do
+
+- 🏗️ Design & ship **microservices** (gateway, registry, config, auth)
+- 📡 Build **real-time market-data** pipelines with **Kafka**
+- 💳 Engineer **concurrency-safe, idempotent transaction** workflows
+- 🔐 Implement **OAuth2 / JWT** auth & authorization
+- 🧪 Uphold **clean code, code reviews & testing**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Tech I work with
+### 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,cpp&theme=dark" />
 
 **Backend & Frameworks**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs&theme=dark" />
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind,html,css,jquery&theme=dark" />
 
-**Data, Messaging & DevOps**
+**Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+**Messaging & DevOps**
+
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,git,github,idea&theme=dark" />
+
+</div>
 
 ---
 
-### 🚀 Featured projects
+### 🚀 Featured Projects
 
-| Project | What it is | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| 🏦 **[Biblioteca — book_tracking](https://github.com/ayashaJui/book_tracking)** | Book-tracking platform built as independent Spring Boot microservices behind an API gateway, with Eureka discovery, a config server, and OAuth2/JWT auth | Java 21 · Spring Cloud · Eureka · OAuth2 · PostgreSQL · Angular · Docker |
-| 📚 **[Ink & Paper](https://github.com/ayashaJui/bookstore_ink_paper)** | Full-stack online bookstore with cart/checkout, blogs, reviews, and a role-based admin dashboard | React · Redux · Node.js · Express · MongoDB |
-| 🎯 **[StudyNest](https://github.com/ayashaJui/study_prep_manager)** | Interview-prep platform with topics, notes, flashcards (SM-2 spaced repetition), quizzes, and a problem tracker | Next.js 16 · NestJS · TypeScript · MongoDB |
-| 🏝️ **[TourVille](https://github.com/ayashaJui/CSEKU_WPL_2020_tourville)** | Tourism management system connecting tourists, agencies, and admins — with booking and payment flows | PHP · MySQL · Bootstrap 5 |
+| 🏦 **[Biblioteca](https://github.com/ayashaJui/book_tracking)** | Book-tracking platform as independent Spring Boot microservices behind an API gateway, with Eureka discovery, a config server, and OAuth2/JWT auth | `Java 21` `Spring Cloud` `Eureka` `OAuth2` `PostgreSQL` `Angular` `Docker` |
+| 📚 **[Ink & Paper](https://github.com/ayashaJui/bookstore_ink_paper)** | Full-stack online bookstore with cart/checkout, blogs, reviews, and a role-based admin dashboard · [Live](https://inkandpaper-frontend.onrender.com) | `React` `Redux` `Node.js` `Express` `MongoDB` |
+| 🎯 **[StudyNest](https://github.com/ayashaJui/study_prep_manager)** | Interview-prep platform with topics, notes, flashcards (SM-2 spaced repetition), quizzes, and a problem tracker · [Live](https://studynest-z0r3.onrender.com) | `Next.js 16` `NestJS` `TypeScript` `MongoDB` |
+| 🏝️ **[TourVille](https://github.com/ayashaJui/CSEKU_WPL_2020_tourville)** | Tourism management system connecting tourists, agencies, and admins — with booking and payment flows · [Demo](https://youtu.be/jrAbrGvxJOE) | `PHP` `MySQL` `Bootstrap 5` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayashaJui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayashaJui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=ayashaJui&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<sub>Built with Spring Boot, curiosity, and a lot of <code>mvn clean install</code>.</sub>
+⚡ *"Clean code, sound architecture, and shipping to production."*
 
 </div>
