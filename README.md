@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayasha-hossain-jui/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayashajui1110@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayashaJui/)
-![Profile Views](https://api.visitorbadge.io/api/visitors?path=ayashaJui&label=Profile%20Views&countColor=%236DB33F&style=flat)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=ayashaJui&label=Profile%20Views&countColor=%236DB33F&style=for-the-badge)
 
 </div>
 
