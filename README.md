@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ayashaJui">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=6DB33F&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Distributed+Systems;Java+%7C+Spring+Boot+%7C+Microservices;FinTech+%7C+Event-Driven+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=6DB33F&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Ayasha+Hossain+Jui;Software+Engineer;Backend+%26+Distributed+Systems;Java+%7C+Spring+Boot+%7C+Microservices;FinTech+%7C+Event-Driven+Architecture" alt="Typing SVG" />
 </a>
 
 **Java · Spring Boot · Microservices · FinTech**
@@ -47,31 +47,19 @@ in the **FinTech** domain.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech I work with
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,cpp&theme=dark" />
-
-**Backend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind,html,css,jquery&theme=dark" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-
-**Messaging & DevOps**
-
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,git,github,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,kafka,rabbitmq,docker,git,angular,react,nodejs,ts,python&theme=dark" />
 
 </div>
+
+**Languages:** Java · TypeScript · JavaScript · Python · PHP · SQL
+**Backend:** Spring Boot · Spring Security · Spring Data JPA / Hibernate · Node.js · NestJS
+**Frontend:** Angular · React · Next.js · Tailwind CSS
+**Data & Messaging:** PostgreSQL · SQL Server · MySQL · MongoDB · Kafka · RabbitMQ
+**DevOps:** Docker · Git · CI/CD
 
 ---
 
@@ -83,6 +71,13 @@ in the **FinTech** domain.
 | 📚 **[Ink & Paper](https://github.com/ayashaJui/bookstore_ink_paper)** | Full-stack online bookstore with cart/checkout, blogs, reviews, and a role-based admin dashboard · [Live](https://inkandpaper-frontend.onrender.com) | `React` `Redux` `Node.js` `Express` `MongoDB` |
 | 🎯 **[StudyNest](https://github.com/ayashaJui/study_prep_manager)** | Interview-prep platform with topics, notes, flashcards (SM-2 spaced repetition), quizzes, and a problem tracker · [Live](https://studynest-z0r3.onrender.com) | `Next.js 16` `NestJS` `TypeScript` `MongoDB` |
 | 🏝️ **[TourVille](https://github.com/ayashaJui/CSEKU_WPL_2020_tourville)** | Tourism management system connecting tourists, agencies, and admins — with booking and payment flows · [Demo](https://youtu.be/jrAbrGvxJOE) | `PHP` `MySQL` `Bootstrap 5` |
+
+---
+
+### 📄 Publication
+
+**A CNN Based Approach to Classify Skin Cancers using Transfer Learning**
+IEEE · 25th International Conference on Computer Information Technology (ICCIT 2022) · [DOI →](https://doi.org/10.1109/ICCIT57492.2022.10055838)
 
 ---
 
@@ -102,5 +97,13 @@ in the **FinTech** domain.
 <div align="center">
 
 ⚡ *"Clean code, sound architecture, and shipping to production."*
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something reliable.** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ayasha-hossain-jui/) &nbsp;·&nbsp; [Email](mailto:ayashajui1110@gmail.com)
 
 </div>
