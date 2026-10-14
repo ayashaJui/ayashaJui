@@ -55,11 +55,11 @@ in the **FinTech** domain.
 
 </div>
 
-**Languages:** Java · TypeScript · JavaScript · Python · PHP · SQL
-**Backend:** Spring Boot · Spring Security · Spring Data JPA / Hibernate · Node.js · NestJS
-**Frontend:** Angular · React · Next.js · Tailwind CSS
-**Data & Messaging:** PostgreSQL · SQL Server · MySQL · MongoDB · Kafka · RabbitMQ
-**DevOps:** Docker · Git · CI/CD
+- **Languages:** Java · TypeScript · JavaScript · Python · PHP · SQL
+- **Backend:** Spring Boot · Spring Security · Spring Data JPA / Hibernate · Node.js · NestJS
+- **Frontend:** Angular · React · Next.js · Tailwind CSS
+- **Data & Messaging:** PostgreSQL · SQL Server · MySQL · MongoDB · Kafka · RabbitMQ
+- **DevOps:** Docker · Git · CI/CD
 
 ---
 
