@@ -99,11 +99,3 @@ IEEE · 25th International Conference on Computer Information Technology (ICCIT 
 ⚡ *"Clean code, sound architecture, and shipping to production."*
 
 </div>
-
----
-
-<div align="center">
-
-**Let's build something reliable.** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ayasha-hossain-jui/) &nbsp;·&nbsp; [Email](mailto:ayashajui1110@gmail.com)
-
-</div>
