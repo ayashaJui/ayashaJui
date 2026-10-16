@@ -6,6 +6,7 @@
 
 **Java · Spring Boot · Microservices · FinTech**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C5CFF?style=for-the-badge)](https://ayashaJui.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayasha-hossain-jui/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayashajui1110@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayashaJui/)
@@ -97,5 +98,7 @@ IEEE · 25th International Conference on Computer Information Technology (ICCIT 
 <div align="center">
 
 ⚡ *"Clean code, sound architecture, and shipping to production."*
+
+**[Portfolio](https://ayashaJui.github.io) · [LinkedIn](https://www.linkedin.com/in/ayasha-hossain-jui/) · [GitHub](https://github.com/ayashaJui)**
 
 </div>
